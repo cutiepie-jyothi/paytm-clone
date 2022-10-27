@@ -115,9 +115,10 @@ body a{
 	background-color: rgba(239,239,239,0.9);
 }
 .b{
-	margin-top: 3%;
+	margin-top: 5%;
 	margin-left: 2%;
-    font-family: italic;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
 }
 .instrument{
 	font-family: 'Poppins', sans-serif;
@@ -218,7 +219,9 @@ body a{
 	justify-content: space-around;
 	margin-left: 0%;
 }
-
+.img1{
+	margin-right: 5%;
+}
 .finance h1{
 	font-size: 45px;
 	margin-bottom: 10%;
@@ -246,8 +249,12 @@ body a{
 	padding: 4% 8% 6% 10%;
 	border-radius: 10px;
 }
+.img2{
+	margin-left: 5%;
+}
 .achieve{
 	font-size: 23px;
+	margin-right: 8%;
 }
 .invest{
 	margin-bottom: 7%;
@@ -255,6 +262,7 @@ body a{
 .achieve h1{
 	font-family: 'Poppins', sans-serif;
 	margin-top: 4%;
+	margin-bottom: 3%;
 }
 .sec9{
 	display: flex;
@@ -352,5 +360,23 @@ body a{
 	font-size: 45px;
 	margin-left: 14%;
 	margin-top: 6%;
-	
 }
+.more{
+	font-size: 17px !important;
+	font-family: 'Poppins', sans-serif;
+}
+.img3{
+	border: 1px solid skyblue;
+	border-width: 5px 5px 80px 5px;
+	border-color: skyblue;
+	border-radius: 10px;
+}
+.sec13div1{
+	display: flex;
+	justify-content: space-evenly;
+	padding: 5%;
+}
+.img3:hover{
+    background-color: #009AEE;
+}
+     
