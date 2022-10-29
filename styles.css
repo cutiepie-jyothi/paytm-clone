@@ -420,7 +420,7 @@ body a{
 
 
 
-@media (max-width:390px){
+@media (max-width:420px){
 	.navbar a{
 		font-size: 4px;
 	}
